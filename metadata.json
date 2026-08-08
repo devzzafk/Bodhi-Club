@@ -1,0 +1,6 @@
+{
+  "name": "BODHI - LBSITW Quiz & Debate Club",
+  "description": "Official platform for BODHI, the Quiz & Debate Club of LBSITW. Features quiz leagues, events updates, leaderboards, user profile certificates, and admin controls.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
